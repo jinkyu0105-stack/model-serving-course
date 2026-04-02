@@ -62,3 +62,18 @@ model-serving-course/
 ├── requirements_freeze.txt (2.7 KB)
 └── 📁 tests/
 ```
+
+
+## FastAPI 서버
+<img width="893" height="583" alt="image" src="https://github.com/user-attachments/assets/ccbc8795-5781-4993-a4b9-d1711f79033e" />
+
+## Streamlit 서버
+<img width="753" height="215" alt="image" src="https://github.com/user-attachments/assets/4fab0d19-bccd-490b-8617-0a7e15cb2d7a" />
+
+## 프론트 페이지
+<img width="1636" height="758" alt="image" src="https://github.com/user-attachments/assets/24b31ed4-763d-4def-8c6d-18e20f278dda" />
+
+## Swagger UI
+<img width="842" height="933" alt="image" src="https://github.com/user-attachments/assets/70904873-cf32-4a9b-8cb7-42287f861193" />
+
+
